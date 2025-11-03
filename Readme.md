@@ -26,17 +26,11 @@ A modern, real-time chat application built with React Native Expo and WebSocket 
 
 ### Login Screen
 
-```
 ![Login Screen](./assets/login.jpeg)
-
-```
 
 ### Chat Screen
 
-```
 ![Chat Screen](./assets/chat.png)
-
-```
 
 </details>
 
